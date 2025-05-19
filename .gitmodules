@@ -1,0 +1,9 @@
+[submodule "chat-service"]
+	path = chat-service
+	url = https://github.com/Vu14082002/chat-service
+[submodule "health-care"]
+	path = health-care
+	url = https://github.com/Vu14082002/health-care
+[submodule "health-care-bot"]
+	path = health-care-bot
+	url = https://github.com/Vu14082002/health-care-bot
